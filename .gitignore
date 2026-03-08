@@ -1,0 +1,45 @@
+# AnyLogic generated output folders
+/bin/
+/build/
+/output/
+
+# Eclipse project files (AnyLogic uses Eclipse-based structure)
+.classpath
+.project
+.settings/
+
+# Logs
+*.log
+
+# Compiled Java classes
+*.class
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
+
+# System files
+.DS_Store
+Thumbs.db
+
+# OS-specific
+ehthumbs.db
+Icon?
+._*
+
+# Backup and autosave files
+*~
+*.autosave
+
+# Java build tools (just in case)
+.gradle/
+target/
+.idea/
+*.iml
+
+# Ignore Excel/CSV exports if generated
+*.csv
+*.xls
+*.xlsx
+database/
